@@ -22,8 +22,7 @@
 
 **Trees & Graphs**
 - [Tree node sum Challenge](./Challenges%20with%20Solutions/trees-cherelemma-main/)
-- [Tree traversal: Challenge](./Challenges%20with%20Solutions/tree-traversal-cherelemma-main/)
-- [Binary search tree operations](./Challenges%20with%20Solutions/)
+- [Tree traversal: PostOrder Challenge](./Challenges%20with%20Solutions/tree-traversal-cherelemma-main/)
 - [Binary Search Tree: Node Insertion](./Challenges%20with%20Solutions/binary-search-tree-cherelemma-main/)
 - [Is it a Binary Search Tree?](./Challenges%20with%20Solutions/is-it-a-binary-search-tree-cherelemma-main/)
 - [How Tall is the Tree?]()
