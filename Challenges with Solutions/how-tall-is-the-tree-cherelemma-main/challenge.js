@@ -40,4 +40,7 @@ function binaryTreeHeight(arrayTree) {
 console.log(binaryTreeHeight([2, 7, 5, 2, 6, 0, 9]))
 // => 3
 
+console.log(binaryTreeHeight([2, 7, 5, 2, 6, 0, 9, 0, 8, 1, 4]))
+// => 4
+
 module.exports = binaryTreeHeight
