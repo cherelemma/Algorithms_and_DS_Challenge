@@ -7,6 +7,7 @@
 - [Repeat a String](./Challenges%20with%20Solutions/repeat-a-string-cherelemma-main/)
 - [Sum of Odd Fibonacci](./Challenges%20with%20Solutions/sum-all-odd-fibonacci-numbers-cherelemma-main/)
 - [Recursion Challenge](./Challenges%20with%20Solutions/recursion-cherelemma-main/)
+- [Binary Search](./Challenges%20with%20Solutions/binary-search-cherelemma-main/)
 - [Towers of Hanio part 1](./Challenges%20with%20Solutions/towers-of-hanoi---part-1-cherelemma-main/)
 - [Towers of Hanio part 2](./Challenges%20with%20Solutions/towers-of-hanoi---part-2-cherelemma-main/)
 
