@@ -1,1 +1,1 @@
-# Algorithms_and_DS_Challenge
+# Algorithms and DS Challenges With Solutions
