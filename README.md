@@ -26,5 +26,5 @@
 - [Tree traversal: PostOrder Challenge](./Challenges%20with%20Solutions/tree-traversal-cherelemma-main/)
 - [Binary Search Tree: Node Insertion](./Challenges%20with%20Solutions/binary-search-tree-cherelemma-main/)
 - [Is it a Binary Search Tree?](./Challenges%20with%20Solutions/is-it-a-binary-search-tree-cherelemma-main/)
-- [How Tall is the Tree?]()
+- [How Tall is the Tree?](./Challenges%20with%20Solutions/how-tall-is-the-tree-cherelemma-main/)
 - [Is it Balanced Binary Search Tree?](./Challenges%20with%20Solutions/is-the-binary-search-tree-balanced-cherelemma-main/)
