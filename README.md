@@ -28,3 +28,7 @@
 - [Is it a Binary Search Tree?](./Challenges%20with%20Solutions/is-it-a-binary-search-tree-cherelemma-main/)
 - [How Tall is the Tree?](./Challenges%20with%20Solutions/how-tall-is-the-tree-cherelemma-main/)
 - [Is it Balanced Binary Search Tree?](./Challenges%20with%20Solutions/is-the-binary-search-tree-balanced-cherelemma-main/)
+
+**Sort Algorithms**
+- [Single Item Insertion Sort](./Challenges%20with%20Solutions/insertion-sort-intro-cherelemma-main/)
+- [Full Insertion Sort](./Challenges%20with%20Solutions/insertion-sort-cherelemma-main/)
