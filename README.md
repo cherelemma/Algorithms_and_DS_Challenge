@@ -32,3 +32,6 @@
 **Sort Algorithms**
 - [Single Item Insertion Sort](./Challenges%20with%20Solutions/insertion-sort-intro-cherelemma-main/)
 - [Full Insertion Sort](./Challenges%20with%20Solutions/insertion-sort-cherelemma-main/)
+- [Simple Quick Sort ](./Challenges%20with%20Solutions/simple-quick-sort-cherelemma-main/)
+- [Quick Sort Partition](./Challenges%20with%20Solutions/quick-sort-partition-cherelemma-main/)
+- [Advanced Quick Sort](./Challenges%20with%20Solutions/advanced-quick-sort-cherelemma-main/)
